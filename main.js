@@ -5,7 +5,7 @@ let containerEl = document.getElementById("container");
 
 // Global variables
 let myData = []; 
-for(let n =1; n <= 50; n++) {
+for (let n =1; n <= 50; n++) {
     myData.push(Math.random() * 600); 
 }
 
